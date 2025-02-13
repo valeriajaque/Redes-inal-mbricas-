@@ -53,3 +53,20 @@ Redes Inalámbricas en el Contexto de la Salud
 El uso de redes inalámbricas en la atención médica ha experimentado un crecimientoimportante, especialmente con el uso de sensores portátiles, monitoreo remoto de pacientes, y la implementación de tecnologías de telemedicina.
 
 Estas redes permiten a los profesionales de la salud acceder a datos en tiempo real, mejorando la toma de decisiones y reduciendo costos de atención.
+
+Existen dos tipos de conexiones inalámbricas que son las siguientes:
+
+De larga distancia: Estas se utilizan para permitir la conectividad entre equipos que se encuentran en diferentes áreas geográficas.
+De corta distancia: Son diseñadas para la transferencia de información entre equipos separados por un espacio reducido. 
+
+Las ventajas de las conexiones inalambricas son:
+
+Ahorro de materiales ya que se requiere varios kilometros de cableado y de controladores terrestres para el intercambio de información
+Comunicación más agil ya que puede conectarse a la red un aparato que en este movimiento, o en lugares remotos 
+multiples conexiones ya que en una misma señal inalambrica puede incorporar más de un aparato simultaneamente 
+
+Las desventajas de las conexiones inalambricas son: 
+
+*Se necesita mayor seguridad yaque la señal es incontrolable, libre y cualquiera puede percibirla. 
+*Son susceptibles a la interferencia ya sea de otras señales en el mismo canal de emision, o de ruidos continuos de baja frecuencia como antenas, aparatos de microondas o incluso algunos tipo de metales. 
+*La transmisión es más compleja ya que se requiere de mecanismo y artefactos adicionales para direccionar la transmisión, y de artefactos receptores con la potencia adecuada para conseguir una señal estable y continua.
