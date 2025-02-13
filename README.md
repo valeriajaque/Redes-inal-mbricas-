@@ -53,3 +53,7 @@ Redes Inalámbricas en el Contexto de la Salud
 El uso de redes inalámbricas en la atención médica ha experimentado un crecimientoimportante, especialmente con el uso de sensores portátiles, monitoreo remoto de pacientes, y la implementación de tecnologías de telemedicina.
 
 Estas redes permiten a los profesionales de la salud acceder a datos en tiempo real, mejorando la toma de decisiones y reduciendo costos de atención.
+
+Existen dos tipos de conexiones inalámbricas que son las siguientes:
+	De larga distancia: Estas se utilizan para permitir la conectividad entre equipos que se encuentran en diferentes áreas geográficas.
+	De corta distancia: Son diseñadas para la transferencia de información entre equipos separados por un espacio reducido. 
